@@ -61,6 +61,10 @@ section img{
     margin-right: auto;
     padding: 10px 6px;
 }
+.blog-news strong a{
+    text-decoration: none;
+    color: #a1a19c;
+}
 strong{
     font-family: cursive;
     font-size: initial;
